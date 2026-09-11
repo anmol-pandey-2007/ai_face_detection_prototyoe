@@ -1,0 +1,10 @@
+{
+  "name": "Facial Recognition Site Unlock",
+  "description": "AI-powered biometric facial recognition access system for securing and unlocking a website with live camera analysis, liveness detection, and identity management.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
